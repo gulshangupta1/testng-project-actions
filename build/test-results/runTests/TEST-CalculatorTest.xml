@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-08-30T06:03:56" hostname="As-MacBook-Pro.local" time="0.022">
+  <properties/>
+  <testcase name="testAdditionOfTwoNumbers[0](1, 2, 3)" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testAdditionOfTwoNumbers[1](2, 3, 5)" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testAdditionOfTwoNumbers[2](4, 5, 9)" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testDivisionOfTwoNumbers" classname="CalculatorTest" time="0.001"/>
+  <testcase name="testMultiplicationOfTwoNumbers" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testPercentageOfTwoNumbers" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testSquareOfNumbers" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testSubtractionOfTwoNumbers" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[hello
+Number of Test method completed: 1
+hello
+Number of Test method completed: 2
+hello
+Number of Test method completed: 3
+hello
+Number of Test method completed: 4
+hello
+Number of Test method completed: 5
+hello
+Number of Test method completed: 6
+hello
+Number of Test method completed: 7
+hello
+Number of Test method completed: 8
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
